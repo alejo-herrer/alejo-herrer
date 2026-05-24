@@ -3,7 +3,7 @@
 <img width="1495" height="493" alt="Recurso 2-100" src="https://github.com/user-attachments/assets/abe1b8db-72bd-4009-946f-1e8283fce56f" />
 
 <h2 align=center>About me 👾</h2> 
-Full Stack developer in progress focused on building scalable applications and continuously improving my skills. Currently, I’m learning software architecture and exploring best practices for creating maintainable and efficient systems.
+Full Stack developer focused on building scalable applications and continuously improving my skills. Currently, I’m learning software architecture and exploring best practices for creating maintainable and efficient systems.
 <br>
 
 #### 🌱 I'm currently learning:
@@ -11,12 +11,12 @@ Full Stack developer in progress focused on building scalable applications and c
 - Software Architecture
 - Docker and microservices
 #### 🤝 Open to collaborating on projects and contributing to meaningful ideas.
-#### 💻 Beyond coding, 🎨 I enjoy drawing, 🎮 playing video games, and ⚽ football
+#### 💻 Beyond coding, 🎨 I enjoy drawing, 🎮 playing video games, and ⚽ playing football
 #### ✉️ You can reach me at: alejandroherreralbengrin@gmail.com
 
 ## My skills include:
 
-#### Lenguages:
+#### Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,10 +34,5 @@ Full Stack developer in progress focused on building scalable applications and c
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## My social media:
-<a href='https://www.instagram.com/alejo.herrer/'>![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href='https://www.tiktok.com/@alendarkha/'>![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>
-
 
 
